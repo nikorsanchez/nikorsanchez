@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying software ingeneering on Buenos Aires's University<br>🤝 I’m looking for a part-time job that involves software development or proyects like that.<br>🌱 I’m currently learning rust and smalltalk languages, and making useful apps on react.<br>💬 Count me on making some proyects or games on free time.
+🔭 I’m currently studying software ingeneering on Buenos Aires's University<br>🤝 I’m looking for a part-time job that involves software development or proyects like that.<br>🌱 I’m currently learning rust and smalltalk languages, and making useful apps on react.<br>💬 Count me on making some projects or games on free time.
 
 
 ## 🌐 Socials:
