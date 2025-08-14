@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying software ingeneering on Buenos Aires's University<br>🤝 I’m looking for a part-time job that involves software development, web design or app design.<br><br>💬 Count me on making some projects or games on my free time!
+🔭 I’m currently studying software ingeneering on Buenos Aires's University<br>🤝 I’m looking for a part-time job that involves software development, web design or app design.<br>💬 Count me on making some projects on my free time!
 
 
 ## 🌐 Socials:
