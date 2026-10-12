@@ -1,9 +1,14 @@
 # 💫 About Me:
 🎓 Computer Engineer (Ingeniero Informático) graduated from the University of Buenos Aires.
+
 🚀 Full stack developer: I build web and mobile apps end to end, from React / React Native frontends to cloud-native backends.
+
 🎮 My final engineering project was [Feed the Realm](LINK), an MMO platform where players explore community-created worlds.
+
 🌱 Always learning something new: currently diving deeper into Kubernetes, cloud native systems and security.
+
 💼 Open to full stack and backend opportunities.
+
 🤝 Always up for building side projects with friends and colleagues, so feel free to reach out!
 
 
